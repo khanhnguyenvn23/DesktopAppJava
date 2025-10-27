@@ -10,7 +10,7 @@ public class common {
     public static String username = "tên đăng nhập";
     public static String password = "mật khẩu";
     public static String forgetpassword = "quên mật khẩu ?";
-
+    
     public static Color darkness_blue = Color.decode("#0A3D62");
     public static Color sky_blue = Color.decode("#60A3BC");
     public static Color light_gray = Color.decode("#EDEAEA");
